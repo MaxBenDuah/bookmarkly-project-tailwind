@@ -1,19 +1,39 @@
-# Bookmark Website
+# Bookmark
 
-Bookmark landing page from my Tailwind course and from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158)
+Bookmark landing page using Tailwind and JavaScript from Frontend Mentor Challenge.
 
-## Usage
+## Screenshots
+
+![App Screenshot](https://github.com/MaxBenDuah/miscellaneous-resources/blob/main/screenshot-bookmarkly-1.png?raw=true)
+
+![App Screenshot](https://github.com/MaxBenDuah/miscellaneous-resources/blob/main/screenshot-bookmarkly-2.png?raw=true)
+
+![App Screenshot](https://github.com/MaxBenDuah/miscellaneous-resources/blob/main/screenshot-bookmarkly-3.png?raw=true)
+
+![App Screenshot](https://github.com/MaxBenDuah/miscellaneous-resources/blob/main/screenshot-bookmarkly-4.png?raw=true)
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/MaxBenDuah/bookmarkly-project-tailwind.git
+```
+
+Go to the project directory
+
+```bash
+  cd bookmarkly-project-tailwind
+```
 
 Install dependencies
 
-```
-npm Install
-```
-
-Run Tailwind CLI
-
-```
-npm run watch
+```bash
+  npm install
 ```
 
-![Alt text](images/bookmark.png)
+Start the server
+
+```bash
+  npm run watch
+```
